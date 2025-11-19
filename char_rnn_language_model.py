@@ -1,7 +1,3 @@
-# ============================================================
-# Character-Level RNN Language Model (Fixed Version)
-# Paste into VS Code and run directly
-# ============================================================
 
 import torch
 import torch.nn as nn
